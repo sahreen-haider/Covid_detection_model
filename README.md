@@ -21,3 +21,8 @@
 
 ## The below is a CT-Scan sample of peron with other disease's.
 ![Anota0](https://github.com/sahreen-haider/Covid_detection_model/assets/81517526/afe864bc-fd7b-4e97-935a-9c38a2196104)
+
+
+
+# The below is a link to the dataset:
+https://www.kaggle.com/datasets/imdevskp/corona-virus-report
