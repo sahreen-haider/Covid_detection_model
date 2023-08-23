@@ -25,4 +25,4 @@
 
 
 # The below is a link to the dataset:
-https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+https://drive.google.com/drive/folders/1t6QUfsdgY1hVEVdnGMeouJ7dCY8Gf6LE?usp=sharing
