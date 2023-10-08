@@ -7,7 +7,7 @@
 ### 2 fully connected layers
 
 ### The model is trained on 4 Different classes of Data:
-###Classes: Covid, Healthy, Others
+### Classes: Covid, Healthy, Others
 1. Covid directory contains CT_scan Samples of Various Patients with Covid.
 2. Healthy Directory contains Ct_scan samples of  various Healthy patients.
 3. Others Directory containts CT_scan samples of patients with other disease.
