@@ -12,6 +12,21 @@
 2. Healthy Directory contains Ct_scan samples of  various Healthy patients.
 3. Others Directory containts CT_scan samples of patients with other disease.
 
+The repository packs a requirements.txt file that has all the packages and modules listed to implement the model/project
+from the strach.
+
+
+### The directory structure looks like this:
+|-- ct0   Virtual env directory
+|-- CT_covid_classificatin_models.ipynb
+|-- rename_directories.py
+|-- requirements.txt
+|-- weights and model architecture is saved on model.h5
+
+
+#### For predicting or using your own model or architecture
+Use your own weights and architecture file using saved model file
+formats suppported or "h5py" and "json"
 
 ## The below is a CT-Scan sample of an person with covid.
 ![Anota0](https://github.com/sahreen-haider/Covid_detection_model/assets/81517526/ffc52414-cffa-447b-885d-90eb64c8271d)
