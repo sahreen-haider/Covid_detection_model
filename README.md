@@ -23,6 +23,11 @@ from the strach.
 |-- requirements.txt
 |-- weights and model architecture is saved on model.h5
 
+### The POC is Deployed using streamlit
+
+you can use upload scan and get results for the particular,
+--> Supported images are 'jpg', 'jpeg', 'png'
+--> Support for .MHA and .NII files will addded in the future
 
 #### For predicting or using your own model or architecture
 Use your own weights and architecture file using saved model file
@@ -37,6 +42,9 @@ formats suppported or "h5py" and "json"
 ## The below is a CT-Scan sample of peron with other disease's.
 ![Anota0](https://github.com/sahreen-haider/Covid_detection_model/assets/81517526/afe864bc-fd7b-4e97-935a-9c38a2196104)
 
+## To use the POC.
+navigate to the directory and run the below command in your terminal,
+--> $ streamlit run deployed_pro.py
 
 
 # The below is a link to the dataset:
