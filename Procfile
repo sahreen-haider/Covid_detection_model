@@ -1,0 +1,1 @@
+streamlit run deployed_pro.py
