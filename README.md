@@ -33,7 +33,7 @@ you can use upload scan and get results for the particular,
 Use your own weights and architecture file using saved model file
 formats suppported or "h5py" and "json"
 
-## The below is a CT-Scan sample of an person with covid.
+## The below is a CT-Scan sample of a person with covid.
 ![Anota0](https://github.com/sahreen-haider/Covid_detection_model/assets/81517526/ffc52414-cffa-447b-885d-90eb64c8271d)
 
 ## The below is a CT-Scan sample of a healthy person.
