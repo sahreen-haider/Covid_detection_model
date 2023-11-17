@@ -1,1 +1,1 @@
-streamlit run deployed_pro.py
+web: streamlit run deployed_pro.py
