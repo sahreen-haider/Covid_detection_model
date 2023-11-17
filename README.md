@@ -39,7 +39,7 @@ formats suppported or "h5py" and "json"
 ## The below is a CT-Scan sample of a healthy person.
 ![Anota0](https://github.com/sahreen-haider/Covid_detection_model/assets/81517526/1b253510-7acb-4ee9-a80a-24e13c2749f5)
 
-## The below is a CT-Scan sample of peron with other disease's.
+## The below is a CT-Scan sample of person with other disease's.
 ![Anota0](https://github.com/sahreen-haider/Covid_detection_model/assets/81517526/afe864bc-fd7b-4e97-935a-9c38a2196104)
 
 ## To use the POC.
