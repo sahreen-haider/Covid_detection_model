@@ -2,6 +2,7 @@ numpy
 pandas
 scikit-learn
 matplotlib
-opencv-python
+opencv-python-headless
 tensorflow
 segmentation-models
+libgl1
