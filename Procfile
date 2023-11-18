@@ -1,1 +1,1 @@
-web: streamlit run deployed_pro.py
+web: sh setup.sh && streamlit run deployed_pro.py
