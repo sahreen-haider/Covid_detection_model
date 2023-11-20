@@ -43,5 +43,3 @@ if uploaded_image is not None:
         st.write('Healthy Person')
     elif pred == 2:
         st.write('**Some Other Disease**')
-
-
