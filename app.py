@@ -10,11 +10,7 @@ import time
 
 app = Flask(__name__)
 
-@app.route('/')
-def index_page():
-    return render_template('index.html')
-
-@app.route("/streamlit")
+@app.route("/")
 def stream():
     st.title('Covid Detection')
 
