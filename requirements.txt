@@ -5,4 +5,3 @@ matplotlib
 opencv-python
 tensorflow
 segmentation-models
-libgl1
