@@ -1,23 +1,12 @@
+import numpy as np
 import streamlit as st
-import tensorflow as tf
-import numpy as  np
 import cv2
-from PIL import Image
-from flask import Flask, render_template
-import os
 import time
+import tensorflow as tf
 
 
-app = Flask(__name__)
-
-@app.route('/')
-def index_page():
-    return render_template('index.html')
-
-@app.route("/streamlit")
 def stream():
     st.title('Covid Detection')
-
     model = tf.keras.models.load_model('/Users/sahreenhaider/Documents/Covid_detection_model/model.h5')
 
     uploaded_image = st.file_uploader(':rainbow[Please Upload an image]: ', type=['jpg', 'jpeg', 'png'])
@@ -53,5 +42,5 @@ def stream():
         elif pred == 2:
             st.write('**Some Other Disease**')
 
-if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0', port=8080)
+
+stream()

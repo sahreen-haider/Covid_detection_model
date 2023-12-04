@@ -1,5 +1,5 @@
 # importing the necessary libraries
-
+import tensorflow
 import tensorflow as tf                     # importing tensorflow for buliding the model and using Deep Learning Frameworks
 from tensorflow.keras.models import Model               
 from tensorflow.keras.preprocessing import image
