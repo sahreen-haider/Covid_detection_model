@@ -5,3 +5,5 @@ matplotlib
 opencv-python
 tensorflow
 segmentation-models
+s3fs
+st-files-connection
